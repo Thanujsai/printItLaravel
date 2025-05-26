@@ -1,20 +1,20 @@
 import React from 'react';
 import Home from './Home';
-// import Services from './Services/Services';
-// import WhereToBuy from './WhereToBuy/WhereToBuy';
-// import AppBanner from './AppBanner/AppBanner';
-// import Footer from './Footer/Footer';
-// import Upload from './Upload/Upload';
+import Services from './Services/Services.jsx';
+import WhereToBuy from './WhereToBuy/WhereToBuy';
+import AppBanner from './AppBanner/AppBanner';
+import Footer from './Footer/Footer';
+import Upload from './Upload/Upload';
 
 function MainPage() {
   return (
     <div className='overflow-x-hidden'>
         <Home />
-        {/* <Services />
+        <Services />
         <Upload />
         <WhereToBuy />
         <AppBanner />
-        <Footer /> */}
+        <Footer />
     </div>
   )
 }
