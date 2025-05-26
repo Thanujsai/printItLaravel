@@ -26,7 +26,10 @@ export default {
           sm: "2rem",
         }
 
-      }
+      },
+    fontFamily: {
+        myfont: ['MyFont', 'sans-serif'],
+      },
     },
   },
     plugins: [forms],
