@@ -29,6 +29,9 @@ export default {
       },
     fontFamily: {
         myfont: ['MyFont', 'sans-serif'],
+        sans: ['Inter', 'sans-serif'], // Override the default sans
+        weird1: ['"Monoton"', 'cursive'],
+        weird2: ['"Press Start 2P"', 'cursive'],
       },
     },
   },
