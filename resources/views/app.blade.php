@@ -16,6 +16,12 @@
         <!-- Weird Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&display=swap" rel="stylesheet">
 
+        <!-- Bebas Neue status -->
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+        <link href="https://fonts.googleapis.com/css2?family=Playwrite+Danmark+Loopet:ital,wght@0,400&display=swap" rel="stylesheet">
+
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
         <!-- Scripts -->
         @routes

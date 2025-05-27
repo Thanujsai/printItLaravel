@@ -32,6 +32,12 @@ export default {
         sans: ['Inter', 'sans-serif'], // Override the default sans
         weird1: ['"Monoton"', 'cursive'],
         weird2: ['"Press Start 2P"', 'cursive'],
+        bebasNeueStatic: ['"Bebas Neue"', 'sans-serif'],
+        playwrite: ['"Playwrite"', 'serif'],
+        danmark: ['"Danmark"', 'serif'],
+        loopet: ['"Loopet"', 'cursive'],
+        playwriteLoopet: ['"Playwrite Danmark"', 'cursive'],
+        pacifico: ["Pacifico", 'cursive'],
       },
     },
   },
