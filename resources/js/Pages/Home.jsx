@@ -38,7 +38,7 @@ function Home() {
                         damping:10,
                         delay:1
                     }}
-                     className='text-7xl font-bold leading-tight ml-14'>Your Ideas, Printed</motion.h1>
+                     className='text-7xl font-pacifico leading-tight ml-14'>Your Ideas, Printed</motion.h1>
                     <motion.div
                     initial={{opacity:0, y:100 }}
                     whileInView={{opacity:1, y:0}}
